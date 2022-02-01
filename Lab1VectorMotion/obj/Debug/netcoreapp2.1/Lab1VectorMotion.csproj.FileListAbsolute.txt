@@ -1,0 +1,11 @@
+/Users/semaa/Desktop/CS5097/Lab1VectorMotion/bin/Debug/netcoreapp2.1/Lab1VectorMotion.deps.json
+/Users/semaa/Desktop/CS5097/Lab1VectorMotion/bin/Debug/netcoreapp2.1/Lab1VectorMotion.runtimeconfig.json
+/Users/semaa/Desktop/CS5097/Lab1VectorMotion/bin/Debug/netcoreapp2.1/Lab1VectorMotion.runtimeconfig.dev.json
+/Users/semaa/Desktop/CS5097/Lab1VectorMotion/bin/Debug/netcoreapp2.1/Lab1VectorMotion.dll
+/Users/semaa/Desktop/CS5097/Lab1VectorMotion/bin/Debug/netcoreapp2.1/Lab1VectorMotion.pdb
+/Users/semaa/Desktop/CS5097/Lab1VectorMotion/obj/Debug/netcoreapp2.1/Lab1VectorMotion.csprojAssemblyReference.cache
+/Users/semaa/Desktop/CS5097/Lab1VectorMotion/obj/Debug/netcoreapp2.1/Lab1VectorMotion.csproj.CoreCompileInputs.cache
+/Users/semaa/Desktop/CS5097/Lab1VectorMotion/obj/Debug/netcoreapp2.1/Lab1VectorMotion.AssemblyInfoInputs.cache
+/Users/semaa/Desktop/CS5097/Lab1VectorMotion/obj/Debug/netcoreapp2.1/Lab1VectorMotion.AssemblyInfo.cs
+/Users/semaa/Desktop/CS5097/Lab1VectorMotion/obj/Debug/netcoreapp2.1/Lab1VectorMotion.dll
+/Users/semaa/Desktop/CS5097/Lab1VectorMotion/obj/Debug/netcoreapp2.1/Lab1VectorMotion.pdb
