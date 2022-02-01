@@ -1,5 +1,5 @@
 # Lab 1 - Vector Motion
-## Author: Semaa Amin
+#### Author: Semaa Amin
 
 
 1. To calculate intervening points you can simply calculate the translation vector and divide by 10 and add this to the initial start position and so on. But what if the loop iterates indefinitely and the input is a direction vector (a vector that simply shows the direction the object is moving)? How would you calculate the intermediate positions if you don't know the destination (or how long the object will travel)?
